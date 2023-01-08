@@ -1,6 +1,6 @@
 <template>
   <img alt="Vue logo" src="./assets/logo.png">
-  <HelloWorld msg="WHAT THE FUCK"/>
+  <HelloWorld msg="We are live"/>
   al;sjdhf;aljshdf;lhjasdfl;hjscaf;hjlzsdfg;hjlszdxfc
 </template>
 
