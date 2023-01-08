@@ -1,18 +1,17 @@
 <template>
-  <img alt="Vue logo" src="./assets/logo.png">
-  <HelloWorld msg="We are live"/>
-  al;sjdhf;aljshdf;lhjasdfl;hjscaf;hjlzsdfg;hjlszdxfc
+  <img alt="Vue logo" src="./assets/logo.png" />
+  <h3>Vue3 Mathjax</h3>
+  <HelloWorld msg="Hello Vue 3 in CodeSandbox!" />
 </template>
 
 <script>
-import HelloWorld from './components/HelloWorld.vue'
-
+import HelloWorldVue from "./components/HelloWorld.vue";
 export default {
-  name: 'App',
+  name: "App",
   components: {
-    HelloWorld
-  }
-}
+    HelloWorld: HelloWorldVue,
+  },
+};
 </script>
 
 <style>
