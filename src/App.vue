@@ -1,6 +1,7 @@
 <template>
   <img alt="Vue logo" src="./assets/logo.png">
-  <HelloWorld msg="Get fucked"/>
+  <HelloWorld msg="WHAT THE FUCK"/>
+  WHAT THE FUCK
 </template>
 
 <script>
