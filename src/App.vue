@@ -1,7 +1,7 @@
 <template>
   <img alt="Vue logo" src="./assets/logo.png">
   <HelloWorld msg="WHAT THE FUCK"/>
-  i want to kill myself
+  al;sjdhf;aljshdf;lhjasdfl;hjscaf;hjlzsdfg;hjlszdxfc
 </template>
 
 <script>
