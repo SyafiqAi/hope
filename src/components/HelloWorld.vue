@@ -40,4 +40,17 @@ li {
 a {
   color: #42b983;
 }
+
+#tarea {
+  padding: 10px;
+  height: 100px;
+  width: 500px;
+}
+
+@media only screen and (max-width: 600px) {
+  #tarea {
+    width: 80vw;
+  }
+}
+
 </style>
