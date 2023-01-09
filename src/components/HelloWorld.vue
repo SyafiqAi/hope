@@ -44,7 +44,7 @@ a {
 #tarea {
   padding: 10px;
   height: 100px;
-  width: 30vw;
+  width: 500px;
 }
 
 @media only screen and (max-width: 600px) {
