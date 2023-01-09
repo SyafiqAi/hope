@@ -1,12 +1,6 @@
 // Home.vue
 
 <template>
-  <h1>Home</h1>
-  <img alt="Vue logo" src="../assets/logo.png" />
-  <div><strong>Vue3 Mathjax</strong></div>
-  <div>Made by Syafiq</div>
-  <br />
-  <br />
   <HelloWorld msg="Hello Vue 3 in CodeSandbox!" />
   
 </template>
