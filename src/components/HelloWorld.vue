@@ -1,7 +1,7 @@
 <template>
   <div class="hello">
 
-    <textarea v-model="formula" style="height: 100px; width: 500px;"/>
+    <textarea id='tarea' v-model="formula" />
     <br />
     <br />
 
@@ -40,4 +40,17 @@ li {
 a {
   color: #42b983;
 }
+
+#tarea {
+  padding: 10px;
+  height: 100px;
+  width: 30vw;
+}
+
+@media only screen and (max-width: 600px) {
+  #tarea {
+    width: 80vw;
+  }
+}
+
 </style>
