@@ -1,8 +1,12 @@
 <template>
   <div class="hello">
-    <textarea v-model="formula" />
-    $$a + b = c$$
+
+    <textarea v-model="formula" style="height: 100px; width: 500px;"/>
+    <br />
+    <br />
+
     <vue-mathjax :formula="formula" />
+    <br />
   </div>
 </template>
 
@@ -14,7 +18,7 @@ export default {
   },
   data() {
     return {
-      formula: '$$x = {-b \\pm \\sqrt{b^2-4ac} \\over 2a}.$$'
+      formula: '$$x = {-b \\pm \\sqrt{b^2-4ac} \\over 2a}$$'
     }
   }
 };
